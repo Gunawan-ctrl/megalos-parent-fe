@@ -1,5 +1,5 @@
 <template>
-  <div>dashboard</div>
+  <div class="bg-blue">dashboard</div>
 </template>
 
 <script>
